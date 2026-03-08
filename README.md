@@ -1,12 +1,16 @@
-# OS-Portfolio-Projects
+# OpenSource-DE-Projects
 
 **Collaborative Data Engineering Projects for Portfolio Excellence**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<p align="center">
+
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Contributors](https://img.shields.io/github/contributors/DatechCommunity/OS-portfolio-projects)](https://github.com/DatechCommunity/OS-portfolio-projects/graphs/contributors)
-[![Discord](https://img.shields.io/discord/YOUR_ID?label=Community&logo=discord)](https://discord.com/invite/rQc7pjCy)
-[![Active Projects](https://img.shields.io/badge/Active%20Projects-0-blue)](PROJECTS.md)
+[![Discord](https://img.shields.io/badge/discord-join%20datech-5865F2?logo=discord&style=flat-square)](https://discord.gg/rQc7pjCy)
+[![Projects](https://img.shields.io/badge/projects-0-blue)](PROJECTS.md)
+![Open Learning](https://img.shields.io/badge/community-open%20learning-orange?style=flat-square)
+</p>
 
 > **Build production-grade data systems with real teams, real complexity, and real portfolio value.**  
 > Collaborate with data engineers worldwide on projects that simulate enterprise systems—complete with schema evolution, cost constraints, production incidents, and evolving requirements.
@@ -50,7 +54,6 @@ Contributors report:
 - **Portfolio differentiation** - Projects that stand out in competitive markets
 - **Team experience** - Demonstrable collaboration, not just solo work
 - **Interview confidence** - Real stories about production trade-offs
-- **Job placements** - Hired at tier-1 tech companies and high-growth startups
 - **Community connections** - Network with data engineers worldwide
 
 ---
@@ -172,14 +175,26 @@ Projects succeed through teamwork:
 
 ### Active Projects
 
-**Fraud Detection Pipeline** (Intermediate)  
-Real-time payment fraud detection processing 100K events/day. Team building Kafka ingestion, ML scoring, and alerting. Phase 2 twist: Regulator mandates real-time compliance reporting.
+**Open F1 Data Warehouse (Intermediate)**
 
-**Data Mesh Platform** (Advanced)  
-Multi-domain data product platform with governance. Team implementing domain-oriented architecture, data contracts, and federated ownership. Phase 2 twist: Cross-domain analytics requirements.
+Design and build an analytical data warehouse using Formula 1 race data from the Open F1 API. The goal is to transform raw race weekend data such as sessions, lap times, drivers, and telemetry—into a structured warehouse that supports analytics and historical exploration.
 
-**E-commerce Analytics Warehouse** (Beginner)  
-Star schema warehouse for product analytics. Team building ETL pipelines, dimensional models, and reporting. Phase 2 twist: Real-time inventory requirements.
+Participants will design ingestion pipelines, model the data, and build analytics-ready tables that allow fans and developers to explore trends across races, drivers, and seasons.
+
+What you'll build
+
+Data ingestion pipeline from the Open F1 API
+
+Staging layer for raw race data
+
+Dimensional models for drivers, races, laps, and telemetry
+
+Analytical tables for race performance and historical insights
+
+SQL queries and dashboards for F1 analytics
+
+**Apache Kafka Internals Lab** (Intermediate)
+Learn how Kafka works internally by building and experimenting with a multi-broker cluster. Explore topics, partitions, offsets, replication, and consumer groups while observing how Kafka handles failures and distributed coordination.
 
 → [See All Projects](PROJECTS.md)
 
