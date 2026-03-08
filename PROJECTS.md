@@ -2,7 +2,7 @@
 
 This page catalogs all OS-Portfolio-Projects collaborative data engineering projects.
 
-**Last updated:** [Date]
+**Last updated:** 2026-03-08
 
 ---
 
@@ -22,10 +22,10 @@ This page catalogs all OS-Portfolio-Projects collaborative data engineering proj
 
 ## Project Statistics
 
-- **Total Projects:** [X]
-- **Active Projects:** [X]
-- **Completed Projects:** [X]
-- **Total Contributors:** [X]
+![Total Projects](https://img.shields.io/badge/projects-2-blue?style=flat-square)
+![Active](https://img.shields.io/badge/active-2-green?style=flat-square)
+![Completed](https://img.shields.io/badge/completed-0-purple?style=flat-square)
+![Contributors](https://img.shields.io/github/contributors/DatechCommunity/OS-portfolio-projects?style=flat-square)
 
 ---
 
@@ -55,8 +55,8 @@ These projects are actively looking for contributors.
 **Status:** Phase 1 - In Progress  
 **Started:** 2025-11-01
 
-**What it builds:** [A repository to learn the internals of Apache Kafka by self-hosting Kafka and building projects based on Apache Kafka]
-
+**What it builds:** 
+Learn how Kafka works internally by building and experimenting with a multi-broker cluster. Explore topics, partitions, offsets, replication, and consumer groups while observing how Kafka handles failures and distributed coordination
 **Current team:** [2] contributors  
 **Looking for:**
 - [Role 1]
